@@ -1,0 +1,59 @@
+h2
+{
+	font-family: Aboreto;
+	font-family: Aleo;
+}
+
+h3
+{
+	font-family: Aleo;
+}
+
+p
+{
+	font-family: Aleo;
+}
+
+h1
+{
+	font-family: Aboreto;
+}
+
+th
+{
+	font-family: Aleo;
+}
+
+td
+{
+	font-family: Aleo;
+}
+
+li
+{
+	font-family: Aleo;
+}
+header
+{
+	display: flex;
+	justify-content: center;
+	align-content: space-between;
+	padding: 10px 10px;
+	font-family: Aboreto;
+	font-size: 150%;
+	text-align: center;
+}
+
+footer
+{
+	display: flex;
+	justify-content: center;
+	align-content: space-between;
+	background-color: lightpink;
+	padding: 10px 20px;
+	font-family: Aboreto;
+	font-size: 150%;
+	text-align: center;
+}
+
+
